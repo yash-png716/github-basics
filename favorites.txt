@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 Favorite Movies
 
 3 Idiots
 Interstellar
 Dangal
 
+=======
+Favorite Foods
+
+Pizza
+Biryani
+Momos
+>>>>>>> foods
